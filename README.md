@@ -16,3 +16,5 @@ Includes:
 Requirements:
 1. SPM12 toolbox for Matlab
 2. Masks for each of the 16 parcels described in Methods section. Example masks provided with code.
+
+For any questions please contact Senior author.
