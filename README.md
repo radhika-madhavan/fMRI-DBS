@@ -10,5 +10,5 @@ Includes:
 3. Matlab code for extracting 32 features from second-level SPM t-value maps
 
 Requirements:
-SPM12 toolbox for Matlab
-Masks for each of the 16 parcels described in Methods section
+-SPM12 toolbox for Matlab
+-Masks for each of the 16 parcels described in Methods section
