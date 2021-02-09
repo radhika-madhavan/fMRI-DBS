@@ -1,6 +1,6 @@
 # fMRI-DBS
 
-Code for Nature Communications paper - Boutet, Madhavan et al. 2021
+Code for fMRI-DBS analysis towards publication - Boutet, Madhavan et al. 2021
 
 Download SampleCode.zip and extract the contents.
 
